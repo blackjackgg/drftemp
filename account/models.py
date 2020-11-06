@@ -33,7 +33,7 @@ class MyUser(AbstractUser):
     NORMAL = '2'
 
     TYPES = (
-        (NORMAL, '普通'),
+        (NORMAL, '普通2'),
         (VIP, '会员'),
     )
 
